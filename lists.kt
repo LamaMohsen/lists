@@ -1,6 +1,4 @@
-import kotlin.math.PI
 
-    
     fun main() {
        // Read-only (immutable)
     val names = listOf("Ahad", "Turki", "Raghad", "Nasser", "Sumayah", "Fahdah")
